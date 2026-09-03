@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Product_Category,Purchase_Amount,Discount_Percent,Payment_Method,Customer_Rating,Previous_Purchases,Returned
+1,58,Male,Electronics,431.81,20,Credit Card,2.6,13,No
+2,32,Male,Beauty,112.23,0,PayPal,4.5,24,No
+3,35,Male,Clothing,68.19,30,Bank Transfer,4.3,1,Yes
+4,42,Male,Beauty,35.05,25,Credit Card,4.4,7,No
+5,24,Female,Home & Kitchen,67.64,25,Debit Card,2.7,20,No
+6,28,Female,Books,29.77,0,Cash,4.6,7,No
+7,35,Male,Clothing,112.84,25,Debit Card,2.9,14,No
+8,65,Female,Sports,165.12,0,Credit Card,2.6,24,No
+9,58,Male,Sports,204.43,30,Credit Card,2.5,30,No
+10,59,Female,Electronics,183.38,30,Credit Card,3.8,5,No
+11,58,Male,Clothing,48.58,15,Cash,2.8,0,No
+12,33,Male,Clothing,166.46,30,PayPal,2.8,4,No
+13,34,Female,Clothing,174.34,10,PayPal,4.7,14,Yes
+14,33,Male,Electronics,275.13,5,Cash,4.8,2,Yes
+15,50,Male,Home & Kitchen,55.27,30,Debit Card,4.5,15,Yes
+16,24,Female,Home & Kitchen,254.79,15,Credit Card,3.3,23,No
+17,30,Male,Beauty,117.14,30,Credit Card,3.9,27,Yes
+18,23,Male,Clothing,111.11,15,PayPal,4.8,8,No
+19,45,Female,Clothing,70.07,0,Bank Transfer,3.7,18,No
+20,21,Male,Clothing,28.5,20,Credit Card,2.6,19,No
+21,60,Female,Home & Kitchen,106.48,10,Credit Card,4.4,29,Yes
+22,47,Male,Electronics,372.0,10,Bank Transfer,3.6,5,No
+23,57,Male,Sports,56.74,0,Cash,3.9,23,No
+24,56,Male,Sports,274.74,0,Cash,4.1,2,Yes
+25,18,Female,Clothing,80.25,0,Debit Card,4.7,30,Yes
+26,41,Male,Books,77.57,5,Credit Card,3.1,21,No
+27,53,Female,Beauty,124.93,15,Cash,2.9,0,No
+28,60,Male,Home & Kitchen,145.81,15,Debit Card,3.3,11,No
+29,19,Male,Books,24.58,30,Credit Card,3.3,17,Yes
+30,34,Male,Beauty,108.17,20,Bank Transfer,2.8,16,No
+31,34,Male,Sports,216.3,5,Cash,3.6,11,No
+32,60,Male,Sports,168.59,5,PayPal,4.2,13,No
+33,57,Female,Books,41.39,15,Debit Card,3.6,14,No
+34,65,Male,Sports,173.67,25,Debit Card,3.1,9,No
+35,19,Male,Clothing,120.44,25,PayPal,3.5,22,No
+36,27,Male,Electronics,393.83,30,PayPal,3.6,3,No
+37,46,Female,Beauty,125.14,10,PayPal,4.4,24,No
+38,35,Female,Electronics,444.04,15,Debit Card,2.9,22,Yes
+39,44,Female,Home & Kitchen,79.9,25,Bank Transfer,4.6,0,No
+40,48,Male,Home & Kitchen,251.94,30,PayPal,4.7,19,No
+41,35,Female,Books,44.07,5,PayPal,3.8,19,Yes
+42,23,Female,Clothing,52.53,15,PayPal,4.4,8,No
+43,23,Female,Electronics,544.4,0,Debit Card,2.6,24,No
+44,19,Male,Clothing,165.28,5,Credit Card,4.0,19,No
+45,37,Male,Beauty,80.45,0,Debit Card,4.2,18,Yes
+46,62,Female,Sports,128.52,10,Cash,3.8,2,Yes
+47,44,Female,Electronics,279.03,20,Bank Transfer,4.1,30,No
+48,47,Female,Sports,104.28,30,PayPal,3.9,14,No
+49,19,Female,Home & Kitchen,292.68,10,Debit Card,2.5,17,Yes
+50,33,Female,Books,66.66,10,Debit Card,3.5,7,No
+51,60,Female,Books,53.58,10,Debit Card,3.1,8,No
+52,25,Male,Clothing,131.37,0,Debit Card,3.0,26,No
+53,29,Female,Electronics,389.23,25,Credit Card,4.4,27,Yes
+54,54,Female,Books,32.72,0,Bank Transfer,3.7,12,Yes
+55,27,Male,Beauty,66.93,20,PayPal,4.4,7,No
+56,46,Female,Beauty,130.26,5,Credit Card,3.0,20,No
+57,33,Male,Beauty,47.29,25,PayPal,4.3,9,Yes
+58,61,Male,Home & Kitchen,205.98,25,Debit Card,4.8,4,Yes
+59,21,Male,Home & Kitchen,315.22,15,Bank Transfer,3.2,30,No
+60,46,Male,Beauty,21.05,30,Credit Card,3.9,27,No
+61,54,Male,Clothing,144.37,15,PayPal,3.7,2,No
+62,38,Male,Clothing,152.61,15,Cash,3.3,2,Yes
+63,43,Male,Sports,137.77,15,Cash,2.6,24,No
+64,36,Female,Sports,110.46,0,Debit Card,3.5,17,Yes
+65,47,Male,Sports,216.37,15,Debit Card,3.6,7,No
+66,30,Male,Electronics,226.15,10,Bank Transfer,3.2,23,No
+67,27,Female,Beauty,126.69,25,Debit Card,3.9,7,No
+68,20,Female,Sports,194.09,5,Debit Card,4.9,15,No
+69,24,Female,Electronics,345.18,15,Cash,4.9,25,No
+70,59,Male,Home & Kitchen,119.42,30,Credit Card,2.6,17,No
+71,58,Female,Clothing,89.86,25,Credit Card,4.8,9,No
+72,21,Female,Home & Kitchen,226.53,0,Bank Transfer,4.7,19,No
+73,49,Male,Clothing,58.81,25,PayPal,2.9,17,No
+74,55,Female,Sports,259.67,0,Cash,3.5,7,No
+75,62,Female,Electronics,686.33,0,PayPal,4.0,29,No
+76,32,Female,Clothing,122.1,25,Credit Card,4.8,3,No
+77,46,Male,Beauty,58.49,30,Cash,4.7,17,No
+78,28,Female,Books,57.67,30,PayPal,3.1,30,No
+79,23,Female,Electronics,182.97,25,Debit Card,3.4,30,No
+80,19,Female,Beauty,61.62,5,Cash,4.9,1,No
+81,25,Male,Clothing,43.52,15,Debit Card,4.4,18,No
+82,59,Male,Books,68.52,5,Cash,3.4,27,No
+83,21,Female,Home & Kitchen,275.02,20,Cash,2.6,0,No
+84,26,Male,Electronics,416.14,30,Cash,4.0,28,No
+85,26,Female,Clothing,219.28,0,Debit Card,3.2,5,No
+86,51,Male,Sports,68.74,20,Bank Transfer,4.3,1,No
+87,47,Male,Electronics,699.12,0,Credit Card,4.0,10,No
+88,35,Female,Books,45.14,30,Bank Transfer,4.1,20,No
+89,45,Female,Clothing,189.28,10,PayPal,4.9,11,Yes
+90,23,Male,Electronics,278.21,20,PayPal,4.2,10,No
+91,60,Female,Sports,57.42,15,Cash,4.6,7,No
+92,25,Female,Beauty,94.07,20,Cash,4.0,0,Yes
+93,29,Female,Sports,205.77,0,Credit Card,4.4,4,Yes
+94,65,Male,Books,74.94,0,Debit Card,2.6,28,Yes
+95,61,Male,Home & Kitchen,229.16,10,Bank Transfer,2.8,13,No
+96,51,Female,Electronics,151.71,30,Credit Card,3.2,8,Yes
+97,49,Female,Clothing,121.12,15,PayPal,4.4,27,Yes
+98,47,Male,Home & Kitchen,263.26,10,Bank Transfer,4.5,5,No
+99,62,Female,Electronics,263.07,25,Debit Card,3.1,10,Yes
+100,50,Male,Beauty,142.62,5,Debit Card,2.9,3,No
+101,56,Male,Sports,138.27,25,Bank Transfer,4.7,29,No
+102,58,Female,Clothing,127.85,0,Credit Card,3.7,9,Yes
+103,41,Female,Electronics,335.79,30,PayPal,4.7,23,No
+104,38,Female,Beauty,57.33,20,Debit Card,2.9,20,No
+105,46,Male,Home & Kitchen,135.93,25,Credit Card,2.7,10,No
+106,36,Female,Sports,186.74,10,PayPal,4.9,9,No
+107,56,Male,Home & Kitchen,113.65,25,PayPal,3.8,29,No
+108,19,Female,Home & Kitchen,380.64,0,Credit Card,4.6,9,Yes
+109,60,Female,Beauty,135.12,5,PayPal,3.6,23,No
+110,61,Male,Books,21.74,30,Debit Card,4.8,15,No
+111,61,Female,Books,38.14,20,Credit Card,4.7,4,No
+112,41,Male,Sports,260.26,5,Debit Card,3.6,26,No
+113,40,Male,Books,99.51,0,Cash,4.3,26,No
+114,26,Male,Home & Kitchen,337.51,0,Debit Card,3.1,0,No
+115,25,Female,Clothing,26.34,15,Bank Transfer,3.8,19,No
+116,63,Male,Home & Kitchen,107.11,10,Bank Transfer,4.9,2,Yes
+117,42,Female,Electronics,355.59,25,Bank Transfer,4.1,21,No
+118,26,Male,Home & Kitchen,71.09,25,Credit Card,4.5,5,No
+119,20,Female,Clothing,52.7,20,Debit Card,3.1,15,No
+120,40,Male,Sports,230.37,15,PayPal,4.9,10,No
+121,41,Female,Electronics,530.79,0,Cash,4.2,10,No
+122,56,Female,Clothing,90.77,10,Credit Card,5.0,20,Yes
+123,60,Female,Home & Kitchen,75.82,15,Debit Card,2.8,1,No
+124,41,Female,Beauty,83.84,5,Cash,3.4,16,No
+125,33,Male,Electronics,455.7,15,Cash,5.0,6,No
+126,30,Male,Clothing,86.78,30,Credit Card,4.2,10,No
+127,37,Male,Sports,207.14,30,PayPal,3.1,4,Yes
+128,41,Female,Books,13.32,25,PayPal,3.8,15,Yes
+129,26,Female,Sports,141.29,20,Debit Card,4.4,5,No
+130,50,Male,Electronics,320.98,20,Credit Card,3.2,28,No
+131,30,Female,Clothing,153.25,5,Bank Transfer,4.1,21,No
+132,54,Male,Electronics,104.29,20,Bank Transfer,2.6,20,No
+133,59,Female,Books,43.2,15,Cash,3.7,15,No
+134,38,Female,Sports,51.49,5,PayPal,2.8,14,No
+135,27,Male,Electronics,233.94,10,Cash,3.9,29,No
+136,28,Female,Beauty,75.89,5,Credit Card,4.0,6,Yes
+137,36,Female,Beauty,139.31,10,PayPal,3.4,23,No
+138,20,Female,Electronics,390.22,10,Bank Transfer,5.0,26,Yes
+139,26,Male,Books,36.47,15,Credit Card,2.6,16,No
+140,63,Female,Books,19.19,15,Cash,4.3,19,No
+141,50,Female,Sports,125.59,10,Credit Card,4.7,25,No
+142,34,Male,Sports,90.69,30,Bank Transfer,3.1,21,Yes
+143,30,Male,Books,32.85,30,Credit Card,4.3,27,No
+144,51,Male,Beauty,39.22,10,Cash,3.4,17,No
+145,30,Male,Home & Kitchen,292.48,25,Cash,3.3,15,No
+146,36,Male,Beauty,155.26,10,Credit Card,3.2,1,No
+147,46,Female,Sports,50.2,20,Debit Card,4.0,23,Yes
+148,60,Male,Sports,50.24,20,PayPal,2.9,29,No
+149,59,Male,Home & Kitchen,274.45,25,Debit Card,4.8,27,No
+150,29,Male,Books,79.66,10,Cash,4.0,18,No
+151,47,Female,Clothing,114.88,10,Cash,3.0,22,No
+152,54,Male,Clothing,166.91,0,PayPal,5.0,5,No
+153,33,Male,Home & Kitchen,115.91,10,Debit Card,3.4,20,Yes
+154,60,Male,Books,90.56,0,Cash,4.8,20,No
+155,57,Male,Clothing,110.48,15,Debit Card,3.8,24,No
+156,61,Male,Beauty,20.15,20,Debit Card,3.9,6,No
+157,38,Female,Electronics,476.69,5,Bank Transfer,3.5,16,Yes
+158,53,Female,Sports,184.04,0,Credit Card,3.4,13,Yes
+159,22,Female,Electronics,232.2,10,PayPal,3.5,28,No
+160,23,Male,Sports,205.9,30,Cash,4.4,0,No
+161,61,Female,Beauty,32.27,30,PayPal,2.6,3,Yes
+162,33,Male,Electronics,121.17,15,Debit Card,3.1,14,Yes
+163,26,Female,Clothing,169.42,10,Bank Transfer,2.9,28,No
+164,44,Female,Home & Kitchen,302.17,15,PayPal,4.9,1,No
+165,62,Female,Books,39.46,25,Credit Card,4.5,4,No
+166,44,Male,Books,69.75,25,Cash,3.0,26,No
+167,61,Male,Electronics,177.0,10,Credit Card,4.9,9,No
+168,30,Male,Sports,221.33,20,PayPal,4.4,10,No
+169,52,Female,Home & Kitchen,149.79,30,Cash,4.8,10,No
+170,44,Male,Beauty,100.23,10,Debit Card,3.0,4,No
+171,54,Male,Books,59.03,25,Cash,3.7,15,No
+172,26,Female,Clothing,101.28,30,Credit Card,2.6,21,No
+173,26,Male,Electronics,414.76,20,PayPal,3.7,29,Yes
+174,18,Female,Electronics,76.81,15,Debit Card,4.8,25,Yes
+175,24,Male,Clothing,119.92,15,Debit Card,3.9,14,No
+176,61,Male,Sports,116.93,25,Credit Card,4.3,0,No
+177,45,Female,Beauty,39.68,25,Cash,3.9,28,Yes
+178,22,Female,Beauty,121.55,30,PayPal,4.3,26,Yes
+179,37,Male,Beauty,66.25,5,Credit Card,5.0,25,No
+180,21,Male,Books,58.72,10,PayPal,4.1,0,No
+181,32,Female,Beauty,20.4,30,Credit Card,4.3,7,No
+182,27,Female,Sports,241.67,15,Credit Card,4.4,11,No
+183,23,Male,Books,9.89,20,PayPal,3.3,25,Yes
+184,36,Female,Books,74.51,25,Cash,2.9,12,No
+185,35,Female,Clothing,113.98,5,Bank Transfer,4.1,23,No
+186,47,Male,Clothing,214.41,10,Bank Transfer,4.5,13,No
+187,37,Female,Beauty,131.13,25,Bank Transfer,3.7,20,No
+188,38,Female,Home & Kitchen,54.1,25,PayPal,3.9,24,No
+189,46,Female,Sports,97.45,10,PayPal,2.9,21,No
+190,22,Female,Beauty,90.39,30,Bank Transfer,3.4,30,Yes
+191,24,Male,Sports,142.0,30,PayPal,4.9,10,Yes
+192,18,Male,Home & Kitchen,200.99,15,Bank Transfer,4.2,24,No
+193,40,Male,Books,18.4,10,Debit Card,3.6,10,No
+194,40,Female,Electronics,246.16,30,Debit Card,4.1,10,No
+195,51,Male,Beauty,61.37,25,Credit Card,3.6,21,No
+196,46,Female,Books,51.34,30,Cash,3.8,27,No
+197,30,Female,Electronics,194.13,20,PayPal,3.4,3,No
+198,61,Female,Beauty,32.58,5,Bank Transfer,3.5,16,No
+199,54,Female,Books,57.86,15,Cash,2.9,9,No
+200,57,Male,Home & Kitchen,86.87,15,PayPal,3.7,21,No
+201,28,Male,Beauty,88.15,15,PayPal,4.4,18,Yes
+202,54,Male,Home & Kitchen,132.59,20,Credit Card,5.0,6,No
+203,37,Male,Books,83.48,5,Cash,4.3,25,No
+204,28,Male,Clothing,153.94,25,Cash,3.2,9,Yes
+205,26,Female,Electronics,486.74,30,PayPal,4.4,7,No
+206,27,Female,Sports,150.11,10,Cash,4.8,22,No
+207,49,Female,Beauty,81.58,10,Bank Transfer,2.7,27,No
+208,31,Female,Clothing,65.98,30,Credit Card,4.7,10,Yes
+209,24,Female,Electronics,117.77,25,Cash,2.8,29,No
+210,35,Male,Sports,147.78,25,PayPal,4.4,22,Yes
+211,63,Male,Electronics,191.09,10,PayPal,2.8,26,No
+212,48,Male,Clothing,131.65,30,Debit Card,4.4,26,No
+213,22,Male,Beauty,29.98,25,Credit Card,4.6,14,Yes
+214,26,Male,Beauty,53.09,5,Bank Transfer,4.0,17,No
+215,62,Male,Sports,141.89,30,Debit Card,4.5,28,No
+216,42,Male,Clothing,148.77,5,Bank Transfer,4.7,12,No
+217,41,Male,Books,16.08,0,Bank Transfer,4.5,30,No
+218,58,Female,Books,52.36,20,Debit Card,3.0,29,No
+219,43,Male,Home & Kitchen,291.71,15,Cash,4.0,19,No
+220,25,Male,Sports,226.07,10,Cash,3.4,5,Yes
+221,19,Female,Books,55.71,10,Bank Transfer,3.7,1,No
+222,41,Male,Home & Kitchen,195.6,30,Credit Card,2.5,27,No
+223,41,Female,Clothing,228.83,5,Cash,3.1,10,No
+224,22,Female,Electronics,391.27,0,Cash,3.7,28,No
+225,38,Male,Beauty,123.33,10,Debit Card,4.9,18,No
+226,27,Male,Books,50.69,30,Cash,3.4,21,Yes
+227,31,Male,Books,51.83,30,Cash,3.5,16,No
+228,65,Male,Beauty,103.26,5,Cash,3.2,7,No
+229,62,Female,Home & Kitchen,379.12,0,Cash,3.6,5,No
+230,25,Female,Clothing,94.93,25,Debit Card,4.0,22,No
+231,27,Male,Sports,297.44,0,PayPal,3.5,30,No
+232,24,Female,Electronics,404.89,30,Credit Card,3.4,12,No
+233,22,Male,Electronics,202.61,0,Credit Card,4.9,1,No
+234,54,Female,Sports,68.82,10,Credit Card,4.7,14,No
+235,59,Female,Books,24.63,30,Bank Transfer,3.1,16,Yes
+236,42,Female,Books,49.69,10,Cash,3.0,19,Yes
+237,48,Female,Beauty,44.23,25,Debit Card,4.4,1,No
+238,40,Male,Clothing,83.83,10,Debit Card,3.9,30,No
+239,49,Female,Clothing,32.61,20,Cash,4.5,6,No
+240,38,Male,Electronics,171.58,0,PayPal,4.3,11,Yes
+241,39,Female,Home & Kitchen,361.97,5,Bank Transfer,4.9,22,No
+242,32,Male,Books,64.26,15,Bank Transfer,5.0,27,Yes
+243,29,Female,Beauty,124.18,10,Credit Card,4.1,5,No
+244,46,Male,Home & Kitchen,135.73,15,Debit Card,3.5,23,No
+245,49,Female,Home & Kitchen,197.04,5,Credit Card,2.7,14,No
+246,19,Female,Home & Kitchen,92.94,0,Bank Transfer,4.0,10,No
+247,63,Male,Books,22.93,5,Bank Transfer,4.2,13,No
+248,60,Female,Home & Kitchen,205.32,15,Bank Transfer,3.2,2,No
+249,30,Male,Electronics,177.06,15,Cash,4.7,15,Yes
+250,59,Female,Clothing,75.41,30,Debit Card,3.9,8,Yes
+251,23,Female,Beauty,63.1,20,PayPal,4.7,21,No
+252,48,Female,Electronics,259.82,20,PayPal,2.8,4,No
+253,28,Male,Clothing,82.16,30,Credit Card,3.1,19,Yes
+254,42,Female,Beauty,115.82,20,PayPal,3.5,25,No
+255,27,Male,Electronics,364.53,15,Bank Transfer,3.7,20,No
+256,20,Male,Home & Kitchen,211.43,25,PayPal,2.6,7,No
+257,41,Male,Home & Kitchen,93.61,30,PayPal,2.8,7,No
+258,35,Female,Beauty,96.08,30,Bank Transfer,4.6,11,No
+259,22,Female,Sports,54.61,30,Debit Card,4.6,6,Yes
+260,47,Male,Home & Kitchen,334.7,0,Bank Transfer,3.4,7,No
+261,29,Female,Beauty,152.09,0,Bank Transfer,2.6,12,No
+262,32,Male,Sports,180.71,15,Debit Card,2.8,29,Yes
+263,32,Female,Beauty,76.44,10,PayPal,3.1,14,No
+264,61,Female,Beauty,61.4,20,Credit Card,3.2,9,No
+265,22,Female,Home & Kitchen,120.29,5,Credit Card,4.4,16,No
+266,60,Female,Sports,102.2,25,Bank Transfer,4.0,1,No
+267,39,Male,Sports,180.24,30,Debit Card,4.7,21,No
+268,24,Female,Clothing,140.09,25,Debit Card,3.1,2,No
+269,44,Female,Home & Kitchen,275.96,20,Debit Card,3.7,2,Yes
+270,61,Female,Beauty,38.44,20,PayPal,4.8,28,No
+271,38,Male,Electronics,267.61,30,Debit Card,2.9,24,No
+272,23,Male,Beauty,11.83,25,Cash,4.9,11,No
+273,19,Male,Sports,147.08,10,Credit Card,2.7,5,No
+274,36,Female,Sports,254.1,15,Debit Card,4.4,11,No
+275,19,Male,Clothing,37.63,25,Cash,2.6,25,Yes
+276,56,Male,Sports,53.09,10,Debit Card,4.3,15,Yes
+277,37,Female,Sports,217.7,20,Cash,4.0,23,Yes
+278,24,Female,Clothing,188.98,5,Debit Card,3.9,1,No
+279,39,Male,Electronics,61.53,30,Credit Card,2.7,16,No
+280,59,Male,Books,17.08,10,Cash,4.5,11,No
+281,65,Male,Electronics,516.61,15,Credit Card,4.1,30,No
+282,39,Male,Electronics,246.36,25,Credit Card,4.5,28,No
+283,62,Male,Clothing,160.71,30,Debit Card,4.0,11,No
+284,49,Male,Books,8.33,25,Debit Card,4.3,18,No
+285,51,Male,Books,56.69,20,Credit Card,5.0,28,Yes
+286,59,Male,Beauty,86.51,10,Bank Transfer,3.8,1,No
+287,43,Male,Electronics,309.94,15,Credit Card,4.1,23,No
+288,44,Male,Beauty,96.16,20,PayPal,4.1,6,No
+289,41,Male,Clothing,81.9,15,Debit Card,2.7,3,Yes
+290,39,Female,Sports,66.64,5,PayPal,4.3,26,Yes
+291,34,Male,Clothing,151.2,30,Bank Transfer,2.6,13,Yes
+292,46,Female,Sports,150.57,15,Bank Transfer,4.0,26,No
+293,62,Male,Sports,227.28,15,Debit Card,4.8,19,No
+294,43,Female,Home & Kitchen,137.04,25,Bank Transfer,4.7,17,No
+295,30,Male,Beauty,125.6,5,Cash,3.9,16,Yes
+296,40,Female,Beauty,107.68,30,Bank Transfer,4.5,13,Yes
+297,19,Female,Clothing,31.37,5,Cash,2.7,26,No
+298,52,Male,Home & Kitchen,280.94,20,Cash,3.1,12,Yes
+299,42,Female,Books,47.75,20,PayPal,4.5,27,No
+300,58,Female,Beauty,47.65,25,Debit Card,3.0,2,Yes
+301,42,Male,Books,81.83,5,Cash,2.9,1,Yes
+302,58,Female,Books,58.95,20,Debit Card,4.5,2,No
+303,52,Female,Electronics,237.3,20,Bank Transfer,3.7,16,Yes
+304,25,Female,Books,27.15,15,Credit Card,4.5,29,No
+305,34,Female,Electronics,483.77,25,Credit Card,3.3,6,Yes
+306,28,Male,Sports,42.86,20,PayPal,4.3,26,Yes
+307,65,Male,Electronics,291.78,20,Cash,3.1,26,No
+308,42,Female,Sports,223.08,0,Credit Card,4.4,24,Yes
+309,40,Male,Home & Kitchen,46.51,25,Bank Transfer,3.7,0,No
+310,26,Female,Beauty,130.71,25,Credit Card,4.9,11,No
+311,25,Male,Electronics,326.31,25,Bank Transfer,3.0,11,No
+312,28,Male,Clothing,54.69,30,Bank Transfer,5.0,29,No
+313,59,Male,Home & Kitchen,77.28,25,Cash,3.1,20,Yes
+314,30,Female,Books,56.32,10,Credit Card,3.6,30,No
+315,33,Male,Sports,226.46,15,Cash,3.4,14,No
+316,53,Male,Clothing,29.14,25,Credit Card,4.1,28,Yes
+317,50,Male,Beauty,46.4,20,Debit Card,4.1,15,No
+318,43,Male,Beauty,60.35,25,Bank Transfer,4.6,7,No
+319,50,Male,Books,79.65,10,PayPal,3.0,1,No
+320,22,Female,Home & Kitchen,221.62,0,Cash,5.0,1,Yes
+321,63,Female,Sports,143.27,30,PayPal,3.8,2,No
+322,51,Female,Home & Kitchen,274.79,15,Bank Transfer,3.1,5,No
+323,31,Male,Clothing,158.46,0,PayPal,4.2,15,No
+324,55,Male,Sports,198.12,0,Credit Card,3.9,28,No
+325,34,Male,Beauty,120.35,10,PayPal,2.7,30,No
+326,48,Male,Clothing,142.37,10,Cash,4.3,5,No
+327,56,Male,Clothing,35.29,30,Debit Card,4.0,4,No
+328,57,Male,Beauty,80.2,30,Bank Transfer,4.1,21,No
+329,41,Male,Sports,140.24,25,Bank Transfer,4.4,29,Yes
+330,45,Male,Home & Kitchen,330.46,5,Credit Card,4.3,0,Yes
+331,51,Male,Books,38.34,10,PayPal,4.6,8,No
+332,57,Female,Sports,151.94,15,Bank Transfer,5.0,8,No
+333,63,Female,Sports,286.04,0,Cash,3.8,6,Yes
+334,28,Female,Sports,40.49,5,Credit Card,2.7,11,No
+335,43,Female,Sports,19.56,30,Bank Transfer,4.8,21,No
+336,30,Male,Beauty,70.64,5,PayPal,5.0,2,No
+337,60,Female,Books,11.32,30,Cash,4.8,17,No
+338,35,Male,Beauty,35.1,20,Cash,3.8,2,Yes
+339,50,Female,Beauty,75.55,30,PayPal,4.9,10,No
+340,55,Male,Books,89.53,10,Bank Transfer,4.9,13,Yes
+341,62,Female,Clothing,100.58,10,Bank Transfer,3.0,11,No
+342,29,Male,Books,23.72,30,Credit Card,3.4,19,Yes
+343,23,Female,Beauty,61.0,20,Debit Card,3.2,27,No
+344,43,Male,Beauty,14.26,30,PayPal,4.4,21,Yes
+345,62,Female,Home & Kitchen,97.18,10,Debit Card,3.9,5,No
+346,48,Female,Home & Kitchen,157.3,15,Bank Transfer,3.9,5,No
+347,24,Female,Clothing,216.95,0,Debit Card,3.6,5,No
+348,49,Female,Home & Kitchen,150.8,15,PayPal,4.1,26,No
+349,34,Female,Home & Kitchen,100.28,20,Bank Transfer,3.9,6,No
+350,36,Female,Home & Kitchen,226.89,25,Debit Card,2.9,30,No
+351,44,Female,Electronics,109.69,15,Cash,4.7,8,No
+352,44,Male,Clothing,46.32,5,Credit Card,3.5,5,Yes
+353,48,Male,Electronics,474.28,15,Cash,3.1,9,No
+354,58,Male,Clothing,50.35,15,Cash,3.9,27,No
+355,26,Male,Beauty,91.23,10,Bank Transfer,3.4,29,No
+356,23,Female,Home & Kitchen,128.09,10,Credit Card,3.7,9,No
+357,48,Female,Electronics,443.87,20,Debit Card,3.5,13,No
+358,42,Male,Home & Kitchen,199.03,10,Bank Transfer,4.1,9,No
+359,44,Male,Electronics,183.44,5,Credit Card,2.5,10,Yes
+360,29,Male,Home & Kitchen,269.13,10,PayPal,3.3,13,No
+361,47,Male,Home & Kitchen,79.85,5,Cash,4.7,6,No
+362,18,Male,Sports,106.21,30,Debit Card,3.8,3,No
+363,42,Female,Home & Kitchen,274.99,10,Credit Card,3.4,6,No
+364,25,Male,Sports,91.85,0,PayPal,4.5,18,No
+365,41,Male,Clothing,41.02,0,Bank Transfer,4.1,11,Yes
+366,26,Female,Clothing,148.42,0,Debit Card,3.4,22,No
+367,20,Female,Sports,90.46,25,Bank Transfer,3.2,14,No
+368,22,Male,Books,9.56,5,Cash,2.5,28,No
+369,38,Male,Sports,60.65,10,Cash,3.5,10,Yes
+370,24,Male,Electronics,478.26,20,PayPal,4.6,20,No
+371,21,Female,Clothing,36.3,0,Credit Card,4.5,14,No
+372,53,Female,Home & Kitchen,258.27,0,Bank Transfer,3.0,30,Yes
+373,24,Male,Beauty,137.07,20,Bank Transfer,4.4,13,No
+374,61,Female,Sports,111.93,5,PayPal,5.0,17,No
+375,38,Female,Home & Kitchen,285.33,15,Cash,3.9,24,No
+376,46,Female,Books,11.47,0,Debit Card,5.0,9,No
+377,19,Female,Beauty,81.86,10,Debit Card,4.7,11,No
+378,34,Female,Electronics,368.65,15,Bank Transfer,4.7,26,Yes
+379,56,Female,Electronics,373.16,30,Credit Card,3.5,13,No
+380,65,Male,Sports,52.91,20,Credit Card,3.1,22,No
+381,46,Male,Clothing,160.69,20,PayPal,3.2,12,No
+382,62,Male,Clothing,52.45,20,Cash,3.1,7,No
+383,38,Male,Electronics,446.84,10,Bank Transfer,5.0,5,No
+384,57,Male,Books,43.64,0,Bank Transfer,2.6,23,No
+385,36,Male,Home & Kitchen,186.7,5,Cash,3.8,17,No
+386,57,Male,Sports,64.65,10,Bank Transfer,4.5,6,No
+387,21,Female,Sports,124.06,0,PayPal,3.2,0,No
+388,42,Male,Home & Kitchen,46.93,25,Bank Transfer,2.6,0,No
+389,39,Female,Books,33.59,20,Cash,4.5,8,No
+390,19,Female,Clothing,181.08,20,Debit Card,4.1,27,No
+391,33,Male,Books,47.04,20,Debit Card,4.5,21,No
+392,62,Male,Books,75.18,20,Credit Card,4.9,17,No
+393,38,Male,Sports,161.03,30,Cash,4.1,28,No
+394,30,Male,Clothing,185.59,5,Cash,4.2,7,Yes
+395,62,Female,Clothing,151.13,5,Credit Card,3.0,5,No
+396,18,Female,Books,24.15,15,Cash,4.0,27,No
+397,33,Female,Books,59.85,20,Credit Card,3.8,19,Yes
+398,46,Female,Electronics,436.96,30,Debit Card,4.9,20,No
+399,46,Female,Home & Kitchen,87.02,5,PayPal,4.6,14,Yes
+400,64,Male,Clothing,223.92,5,Debit Card,4.0,14,No
+401,23,Female,Home & Kitchen,275.99,15,Bank Transfer,3.4,20,No
+402,64,Male,Books,38.16,5,Credit Card,2.9,27,No
+403,37,Female,Sports,64.63,20,PayPal,3.1,24,No
+404,49,Male,Beauty,66.14,20,Bank Transfer,3.1,0,No
+405,57,Male,Electronics,155.68,20,Credit Card,3.3,9,Yes
+406,24,Female,Clothing,72.6,15,Credit Card,3.9,23,Yes
+407,37,Female,Home & Kitchen,310.62,0,Cash,4.6,22,No
+408,51,Male,Sports,36.83,25,Cash,4.0,22,No
+409,56,Female,Home & Kitchen,120.69,25,Debit Card,3.7,15,No
+410,63,Female,Clothing,21.69,15,Cash,2.6,13,No
+411,18,Male,Sports,20.01,25,Bank Transfer,3.4,10,Yes
+412,29,Male,Home & Kitchen,196.91,5,Bank Transfer,3.7,20,No
+413,47,Female,Sports,24.12,20,Cash,3.3,21,Yes
+414,27,Female,Electronics,290.27,0,Cash,4.5,27,No
+415,63,Male,Home & Kitchen,106.13,10,Credit Card,2.8,5,No
+416,23,Female,Beauty,133.92,20,Debit Card,4.4,9,Yes
+417,51,Male,Clothing,94.24,25,Credit Card,4.0,27,No
+418,47,Male,Electronics,362.48,10,Cash,3.0,6,No
+419,46,Male,Home & Kitchen,32.08,10,Debit Card,3.3,17,No
+420,54,Male,Clothing,120.79,25,Credit Card,2.8,1,Yes
+421,45,Female,Clothing,202.49,10,Bank Transfer,3.0,26,Yes
+422,47,Male,Electronics,496.37,15,Debit Card,3.1,15,No
+423,57,Female,Home & Kitchen,276.12,0,Cash,3.7,2,No
+424,47,Male,Home & Kitchen,69.42,10,Cash,4.1,17,No
+425,43,Female,Clothing,116.82,20,PayPal,4.5,13,No
+426,52,Male,Clothing,32.23,15,PayPal,3.9,10,No
+427,37,Female,Electronics,450.92,0,Debit Card,3.0,2,Yes
+428,27,Male,Books,22.09,20,Cash,4.8,25,No
+429,63,Female,Electronics,353.03,20,Bank Transfer,2.6,30,No
+430,25,Female,Electronics,180.68,20,PayPal,4.2,6,No
+431,30,Female,Home & Kitchen,399.06,0,PayPal,4.3,4,No
+432,26,Male,Clothing,109.86,5,Bank Transfer,3.8,14,No
+433,42,Female,Clothing,135.19,15,Cash,3.9,29,Yes
+434,20,Female,Sports,118.83,30,PayPal,4.4,24,Yes
+435,51,Male,Clothing,171.53,10,Cash,2.6,19,Yes
+436,48,Female,Beauty,167.51,5,Bank Transfer,4.2,1,No
+437,64,Female,Electronics,470.17,0,Debit Card,3.7,9,Yes
+438,35,Female,Clothing,62.47,25,Cash,4.1,4,No
+439,34,Male,Books,69.0,30,PayPal,4.6,4,No
+440,33,Female,Sports,232.76,0,PayPal,2.9,1,No
+441,37,Female,Sports,77.78,20,Cash,3.6,27,No
+442,42,Female,Beauty,129.58,25,Cash,3.2,27,No
+443,24,Female,Sports,189.51,20,Debit Card,4.2,10,No
+444,53,Male,Sports,91.25,25,Credit Card,3.1,9,Yes
+445,57,Male,Electronics,661.87,0,Debit Card,4.6,2,No
+446,60,Male,Electronics,460.17,10,Cash,3.6,24,No
+447,28,Male,Home & Kitchen,130.12,15,Debit Card,3.7,2,No
+448,29,Female,Electronics,169.2,0,Bank Transfer,2.7,1,No
+449,46,Male,Books,59.34,15,PayPal,2.5,18,No
+450,45,Female,Sports,212.45,15,Cash,3.9,3,No
+451,61,Female,Books,30.02,30,Cash,4.4,14,No
+452,29,Male,Books,14.71,25,Debit Card,4.3,14,Yes
+453,30,Male,Sports,113.69,30,Credit Card,3.6,25,Yes
+454,39,Male,Home & Kitchen,55.3,25,Debit Card,4.7,27,No
+455,22,Male,Sports,206.96,5,Credit Card,2.9,0,No
+456,24,Female,Beauty,92.18,5,PayPal,4.5,2,No
+457,65,Female,Home & Kitchen,231.98,0,Credit Card,2.9,18,Yes
+458,35,Male,Books,22.35,30,PayPal,4.1,27,No
+459,19,Female,Electronics,58.76,30,Debit Card,4.4,25,No
+460,27,Female,Beauty,90.71,20,Cash,2.7,30,No
+461,44,Male,Beauty,59.77,20,Debit Card,3.0,16,No
+462,21,Male,Electronics,573.9,0,Cash,4.1,1,No
+463,45,Female,Home & Kitchen,187.78,5,Bank Transfer,2.6,25,Yes
+464,22,Male,Sports,88.27,0,Debit Card,3.1,10,No
+465,30,Female,Clothing,146.84,5,PayPal,3.4,12,No
+466,58,Female,Home & Kitchen,243.2,15,Cash,2.9,13,No
+467,36,Male,Sports,110.57,20,Debit Card,4.7,15,No
+468,47,Female,Electronics,426.09,20,Bank Transfer,2.9,30,Yes
+469,44,Male,Electronics,520.94,25,PayPal,2.7,26,No
+470,23,Male,Sports,42.46,15,PayPal,3.3,21,Yes
+471,47,Female,Clothing,79.26,30,Cash,2.7,20,Yes
+472,36,Female,Home & Kitchen,218.55,10,Bank Transfer,4.8,23,No
+473,21,Male,Books,19.33,25,Cash,3.0,24,No
+474,52,Male,Sports,218.39,5,Cash,3.4,10,No
+475,35,Male,Electronics,217.8,30,PayPal,4.7,17,No
+476,61,Male,Clothing,125.31,0,Debit Card,3.2,5,No
+477,27,Male,Beauty,143.42,15,Credit Card,4.3,14,No
+478,30,Male,Electronics,465.38,25,Bank Transfer,3.3,25,No
+479,47,Female,Beauty,66.43,30,Cash,2.6,27,No
+480,47,Male,Beauty,115.12,25,Debit Card,2.9,25,Yes
+481,20,Female,Beauty,18.65,10,Bank Transfer,3.4,4,No
+482,52,Female,Electronics,650.67,0,Bank Transfer,3.9,23,No
+483,59,Female,Books,74.6,25,Cash,4.8,29,Yes
+484,64,Female,Electronics,166.44,0,Debit Card,2.6,10,No
+485,35,Male,Electronics,112.05,15,Bank Transfer,4.0,10,Yes
+486,60,Female,Books,37.02,15,Debit Card,3.9,27,No
+487,65,Female,Books,38.52,20,Debit Card,2.7,19,No
+488,48,Female,Electronics,625.63,5,Bank Transfer,3.7,17,No
+489,30,Male,Books,27.88,25,Credit Card,3.1,14,No
+490,34,Female,Sports,120.2,25,Credit Card,3.1,20,No
+491,49,Male,Beauty,88.96,25,Bank Transfer,2.8,26,Yes
+492,34,Male,Beauty,35.65,15,Cash,4.8,20,Yes
+493,36,Female,Beauty,134.12,5,Cash,3.3,17,No
+494,35,Female,Electronics,349.64,15,Debit Card,4.8,10,Yes
+495,31,Male,Beauty,121.75,20,Credit Card,3.9,22,No
+496,47,Male,Electronics,470.15,20,Cash,4.4,16,No
+497,63,Female,Electronics,514.49,5,PayPal,5.0,4,Yes
+498,22,Male,Books,81.37,0,Credit Card,3.1,29,No
+499,60,Male,Electronics,565.07,0,Cash,4.6,4,No
+500,40,Male,Beauty,120.19,20,Cash,4.3,6,No
+501,52,Male,Sports,159.02,15,Debit Card,4.9,21,No
+502,42,Female,Clothing,96.68,15,Cash,3.4,24,Yes
+503,23,Female,Books,30.46,20,PayPal,3.2,13,No
+504,22,Female,Sports,126.55,25,PayPal,2.8,2,No
+505,62,Male,Sports,160.32,15,PayPal,3.1,3,No
+506,35,Female,Sports,157.36,5,Credit Card,3.6,24,No
+507,49,Female,Clothing,48.41,5,Cash,4.0,12,No
+508,37,Male,Electronics,391.9,20,Bank Transfer,3.9,8,Yes
+509,20,Female,Electronics,222.5,30,Debit Card,3.3,24,No
+510,45,Male,Home & Kitchen,56.38,20,Debit Card,3.7,15,Yes
+511,43,Female,Books,63.19,20,Cash,2.8,1,No
+512,65,Male,Sports,196.5,5,Bank Transfer,4.1,7,Yes
+513,62,Male,Home & Kitchen,183.37,20,Credit Card,3.6,28,No
+514,55,Male,Home & Kitchen,217.66,10,Cash,3.8,15,No
+515,57,Female,Home & Kitchen,251.86,5,Cash,3.2,9,No
+516,32,Male,Sports,147.91,5,Cash,4.5,11,No
+517,45,Female,Clothing,58.34,25,Debit Card,3.8,22,No
+518,31,Female,Home & Kitchen,193.0,25,Cash,3.8,1,No
+519,27,Male,Clothing,147.05,25,Cash,4.6,6,No
+520,59,Male,Home & Kitchen,106.41,10,PayPal,3.7,14,No
+521,59,Male,Clothing,35.97,30,PayPal,4.9,1,Yes
+522,21,Male,Home & Kitchen,363.21,0,Debit Card,4.9,12,No
+523,25,Male,Beauty,77.53,20,Cash,4.4,3,No
+524,55,Female,Sports,85.43,15,Credit Card,4.7,8,No
+525,52,Female,Sports,253.5,5,Cash,3.7,11,No
+526,19,Male,Sports,159.3,10,Cash,4.9,20,Yes
+527,52,Male,Books,68.61,30,Debit Card,3.1,24,No
+528,46,Female,Sports,131.37,15,PayPal,4.6,29,Yes
+529,28,Female,Beauty,48.24,30,Debit Card,4.1,1,No
+530,59,Male,Electronics,229.89,30,Debit Card,4.1,26,No
+531,38,Female,Books,63.37,0,PayPal,3.4,13,No
+532,54,Male,Electronics,634.44,5,Debit Card,4.3,8,Yes
+533,43,Female,Beauty,29.21,15,PayPal,4.8,24,No
+534,25,Male,Sports,110.56,15,Debit Card,3.0,27,No
+535,64,Male,Books,92.96,5,PayPal,4.0,11,Yes
+536,18,Female,Clothing,195.29,20,Bank Transfer,2.7,8,Yes
+537,21,Female,Clothing,71.04,30,Bank Transfer,2.5,1,No
+538,37,Female,Sports,147.18,10,Credit Card,3.7,28,No
+539,63,Female,Clothing,82.85,10,Cash,3.6,29,No
+540,51,Female,Books,59.05,25,Credit Card,4.5,20,No
+541,27,Male,Clothing,108.93,15,Bank Transfer,3.6,1,No
+542,47,Female,Electronics,574.2,5,Cash,3.8,23,No
+543,55,Male,Beauty,87.47,10,Credit Card,3.2,0,No
+544,41,Male,Home & Kitchen,269.89,20,Credit Card,2.5,21,No
+545,38,Male,Clothing,163.49,20,Cash,2.7,12,No
+546,33,Female,Electronics,88.08,5,PayPal,3.2,3,No
+547,61,Male,Home & Kitchen,175.75,20,PayPal,3.6,19,No
+548,57,Male,Books,73.2,25,Bank Transfer,4.8,4,Yes
+549,36,Female,Books,93.65,5,Bank Transfer,3.6,16,Yes
+550,53,Male,Electronics,358.49,10,Bank Transfer,4.0,8,Yes
+551,25,Female,Clothing,160.4,25,PayPal,4.4,14,No
+552,39,Male,Clothing,191.82,0,Debit Card,2.8,12,No
+553,47,Female,Sports,93.15,25,PayPal,4.2,30,No
+554,23,Male,Clothing,34.3,25,PayPal,4.1,4,No
+555,23,Female,Books,77.53,15,PayPal,2.5,15,No
+556,30,Female,Beauty,131.63,15,Bank Transfer,3.7,27,No
+557,20,Female,Books,53.31,25,PayPal,3.8,1,No
+558,53,Male,Home & Kitchen,153.85,25,Cash,2.6,13,No
+559,48,Female,Books,30.39,25,Cash,2.8,14,No
+560,44,Female,Books,33.65,5,Bank Transfer,3.0,5,No
+561,24,Female,Books,11.05,5,Bank Transfer,4.6,5,Yes
+562,22,Female,Books,37.64,30,Bank Transfer,4.4,1,No
+563,27,Male,Sports,205.12,30,Credit Card,4.0,19,Yes
+564,50,Male,Clothing,176.24,20,Credit Card,4.3,15,No
+565,59,Female,Home & Kitchen,73.29,30,Cash,3.7,25,No
+566,23,Female,Home & Kitchen,184.03,30,PayPal,2.8,7,No
+567,44,Female,Beauty,16.64,0,PayPal,3.3,2,No
+568,45,Male,Books,68.42,25,Bank Transfer,4.2,25,No
+569,44,Female,Sports,201.94,20,PayPal,4.8,19,No
+570,59,Male,Beauty,104.27,30,Credit Card,4.7,6,Yes
+571,52,Female,Books,79.42,20,Debit Card,3.8,9,Yes
+572,19,Female,Clothing,80.92,10,Credit Card,3.8,20,Yes
+573,59,Male,Books,78.77,20,Bank Transfer,4.7,22,No
+574,40,Female,Home & Kitchen,241.92,0,Debit Card,3.8,10,No
+575,47,Male,Clothing,178.96,15,Bank Transfer,3.4,2,No
+576,55,Female,Home & Kitchen,338.9,15,Bank Transfer,2.9,26,No
+577,49,Female,Clothing,131.13,5,Credit Card,3.9,30,No
+578,25,Male,Home & Kitchen,73.71,15,Debit Card,4.5,0,No
+579,21,Female,Home & Kitchen,179.23,15,Bank Transfer,3.9,15,No
+580,39,Female,Books,16.85,25,Cash,2.9,14,Yes
+581,57,Female,Books,72.17,25,Credit Card,4.7,2,No
+582,53,Male,Sports,172.73,5,Credit Card,3.7,24,Yes
+583,60,Male,Electronics,200.38,20,Bank Transfer,3.3,19,Yes
+584,49,Male,Home & Kitchen,348.07,0,Debit Card,2.9,17,No
+585,34,Male,Clothing,113.67,0,Cash,3.5,9,No
+586,44,Female,Home & Kitchen,63.54,15,PayPal,4.4,16,Yes
+587,35,Male,Home & Kitchen,188.23,10,Credit Card,4.9,17,No
+588,53,Male,Home & Kitchen,274.5,20,Bank Transfer,4.5,5,No
+589,53,Female,Electronics,68.53,15,PayPal,4.0,8,No
+590,58,Male,Beauty,19.9,25,Bank Transfer,4.6,3,No
+591,45,Male,Beauty,89.85,25,Cash,3.2,14,No
+592,31,Female,Beauty,115.45,0,Bank Transfer,2.9,21,No
+593,43,Male,Sports,41.26,30,Cash,4.6,12,No
+594,29,Male,Electronics,275.15,25,Bank Transfer,3.0,11,No
+595,63,Male,Clothing,242.48,0,PayPal,5.0,6,Yes
+596,35,Female,Clothing,163.17,5,Cash,2.7,23,No
+597,51,Female,Clothing,21.52,15,Credit Card,4.8,0,No
+598,45,Female,Home & Kitchen,213.36,0,Bank Transfer,4.8,8,No
+599,38,Male,Books,10.44,15,Debit Card,2.7,30,No
+600,28,Female,Home & Kitchen,36.28,10,Credit Card,3.1,26,No
+601,33,Female,Electronics,589.41,0,Credit Card,3.6,20,Yes
+602,21,Male,Books,19.33,10,Credit Card,4.1,19,Yes
+603,61,Male,Beauty,57.98,30,PayPal,4.1,21,No
+604,47,Female,Beauty,85.43,5,Bank Transfer,2.8,3,Yes
+605,55,Male,Beauty,111.57,5,Debit Card,2.6,25,No
+606,55,Female,Beauty,128.66,10,Cash,3.4,19,Yes
+607,51,Male,Electronics,170.39,25,Credit Card,3.0,29,No
+608,30,Female,Sports,105.58,10,Credit Card,3.3,13,No
+609,20,Female,Clothing,116.84,30,PayPal,4.5,30,No
+610,43,Male,Electronics,243.96,20,Credit Card,4.4,29,Yes
+611,30,Male,Home & Kitchen,295.97,0,Credit Card,4.6,5,Yes
+612,61,Male,Books,26.03,10,Bank Transfer,2.9,21,No
+613,63,Male,Electronics,135.64,20,Debit Card,4.9,13,Yes
+614,57,Male,Beauty,48.97,20,PayPal,4.0,30,No
+615,64,Male,Books,40.44,10,Debit Card,3.8,15,No
+616,63,Female,Beauty,64.92,20,Debit Card,2.6,20,No
+617,46,Male,Books,24.15,0,Cash,4.4,4,No
+618,51,Female,Clothing,88.91,30,PayPal,3.3,15,Yes
+619,29,Female,Clothing,37.45,0,Debit Card,3.2,25,Yes
+620,25,Male,Home & Kitchen,77.07,25,Bank Transfer,3.2,27,No
+621,63,Female,Electronics,390.21,30,Bank Transfer,2.5,20,No
+622,43,Male,Clothing,47.79,30,Credit Card,3.4,14,No
+623,30,Female,Sports,238.75,10,PayPal,4.3,30,No
+624,39,Male,Books,57.72,20,Debit Card,2.6,25,No
+625,39,Female,Books,22.91,15,Credit Card,4.7,20,No
+626,24,Male,Electronics,562.79,5,Bank Transfer,3.2,7,Yes
+627,47,Male,Home & Kitchen,278.47,20,Credit Card,3.7,13,No
+628,31,Male,Clothing,197.71,5,PayPal,4.3,16,No
+629,30,Male,Clothing,178.21,15,Credit Card,3.7,14,Yes
+630,36,Female,Home & Kitchen,133.05,5,PayPal,4.7,5,No
+631,42,Male,Sports,75.22,25,Credit Card,3.2,17,No
+632,49,Female,Beauty,136.44,5,Credit Card,3.0,8,No
+633,19,Male,Sports,134.09,0,Debit Card,2.8,8,No
+634,60,Female,Books,66.8,10,Credit Card,2.9,26,Yes
+635,29,Female,Electronics,370.34,10,Credit Card,3.0,5,No
+636,46,Male,Sports,109.79,0,PayPal,2.5,19,No
+637,33,Female,Clothing,23.69,0,Credit Card,4.9,7,No
+638,64,Male,Electronics,270.18,20,Credit Card,4.8,12,No
+639,31,Male,Home & Kitchen,203.98,25,Bank Transfer,3.2,26,No
+640,20,Male,Clothing,137.57,30,Credit Card,2.9,18,No
+641,58,Female,Sports,149.87,30,Cash,3.7,21,Yes
+642,56,Female,Books,51.39,30,Debit Card,2.8,28,No
+643,33,Male,Electronics,123.96,25,PayPal,5.0,19,No
+644,26,Female,Home & Kitchen,222.72,0,Cash,4.6,7,No
+645,33,Male,Beauty,90.92,30,Debit Card,3.8,12,No
+646,58,Male,Electronics,619.32,0,Debit Card,4.0,5,No
+647,50,Male,Books,28.84,10,Debit Card,3.6,18,No
+648,48,Male,Home & Kitchen,135.32,30,Credit Card,4.5,30,No
+649,45,Male,Home & Kitchen,254.03,15,Credit Card,4.0,17,No
+650,26,Female,Clothing,54.07,15,Cash,3.5,30,No
+651,49,Female,Sports,267.27,5,Cash,4.4,6,No
+652,50,Female,Sports,91.65,0,Credit Card,4.5,29,No
+653,34,Female,Sports,57.1,0,PayPal,4.3,20,No
+654,63,Male,Beauty,103.32,20,Bank Transfer,4.7,21,No
+655,64,Female,Sports,94.03,5,Cash,4.4,29,Yes
+656,28,Female,Electronics,133.06,5,Debit Card,3.0,11,No
+657,49,Male,Beauty,17.31,30,PayPal,3.1,6,No
+658,58,Male,Sports,158.14,15,Credit Card,4.2,15,Yes
+659,21,Female,Electronics,394.0,20,PayPal,4.4,30,No
+660,39,Female,Home & Kitchen,339.83,15,Cash,2.6,19,No
+661,24,Male,Books,74.6,20,Debit Card,4.9,8,No
+662,46,Female,Beauty,134.17,10,Cash,2.6,27,No
+663,32,Female,Books,70.89,25,Credit Card,4.2,27,No
+664,36,Male,Sports,42.11,30,Bank Transfer,3.3,2,No
+665,28,Female,Electronics,378.94,0,Credit Card,5.0,13,No
+666,38,Female,Home & Kitchen,164.99,20,Credit Card,4.3,20,No
+667,32,Male,Sports,168.63,30,Debit Card,4.5,13,No
+668,25,Female,Electronics,141.6,5,PayPal,3.3,27,Yes
+669,37,Male,Beauty,52.66,30,Bank Transfer,3.8,4,No
+670,24,Female,Electronics,351.68,15,Debit Card,4.0,4,Yes
+671,56,Female,Home & Kitchen,124.62,5,PayPal,3.2,15,Yes
+672,39,Male,Sports,249.84,5,PayPal,3.7,27,No
+673,60,Male,Electronics,335.78,20,Debit Card,3.2,23,No
+674,24,Male,Home & Kitchen,311.48,5,PayPal,2.8,18,No
+675,27,Male,Clothing,45.5,30,PayPal,2.9,27,No
+676,21,Male,Home & Kitchen,46.94,5,Debit Card,4.3,20,Yes
+677,25,Male,Books,48.13,30,PayPal,4.1,21,No
+678,35,Female,Home & Kitchen,60.13,20,PayPal,5.0,18,No
+679,62,Male,Beauty,109.28,0,Bank Transfer,4.8,22,No
+680,43,Male,Books,40.48,25,Credit Card,4.5,26,No
+681,60,Male,Clothing,143.92,20,Credit Card,4.1,6,No
+682,20,Male,Electronics,354.43,10,Bank Transfer,4.9,1,No
+683,60,Female,Clothing,170.88,5,Credit Card,2.7,22,No
+684,20,Male,Clothing,200.93,5,Credit Card,4.1,23,No
+685,34,Female,Sports,172.79,20,Cash,2.7,6,No
+686,63,Female,Beauty,34.28,15,Bank Transfer,2.6,12,No
+687,22,Female,Electronics,286.66,30,Debit Card,2.9,8,No
+688,18,Male,Books,72.4,10,PayPal,4.6,18,Yes
+689,51,Female,Sports,78.71,30,Bank Transfer,3.0,12,No
+690,48,Male,Home & Kitchen,87.53,0,Cash,4.3,29,No
+691,61,Female,Sports,229.58,20,Debit Card,4.3,30,No
+692,58,Male,Home & Kitchen,60.18,5,Cash,2.6,18,No
+693,18,Female,Sports,201.92,25,Bank Transfer,3.5,3,No
+694,65,Male,Sports,222.5,20,Bank Transfer,4.0,21,No
+695,28,Male,Clothing,191.76,10,Debit Card,3.3,3,Yes
+696,36,Female,Books,45.9,25,Credit Card,4.6,16,No
+697,57,Female,Electronics,285.53,5,Credit Card,3.4,12,No
+698,49,Male,Electronics,367.24,10,Cash,3.7,7,No
+699,41,Female,Clothing,61.49,25,Debit Card,2.5,13,Yes
+700,30,Female,Electronics,122.16,25,PayPal,2.8,8,No
+701,61,Male,Home & Kitchen,169.06,5,Credit Card,4.9,3,No
+702,27,Female,Beauty,85.89,0,Cash,3.7,13,No
+703,23,Female,Clothing,140.8,25,PayPal,4.2,7,No
+704,48,Male,Sports,65.9,0,Cash,3.5,4,No
+705,27,Female,Electronics,439.1,5,PayPal,3.3,7,Yes
+706,50,Female,Sports,92.92,0,Credit Card,2.6,5,No
+707,31,Female,Books,32.7,0,Bank Transfer,4.2,3,No
+708,39,Female,Sports,80.71,20,Credit Card,2.7,12,No
+709,58,Male,Electronics,443.67,0,Cash,3.9,30,No
+710,64,Female,Clothing,38.74,30,Bank Transfer,4.6,27,No
+711,41,Female,Sports,163.56,0,Debit Card,4.0,5,No
+712,20,Male,Sports,38.78,15,Bank Transfer,3.8,24,No
+713,43,Female,Clothing,48.28,15,Bank Transfer,4.3,16,No
+714,37,Male,Home & Kitchen,88.64,5,Debit Card,4.7,30,No
+715,21,Male,Clothing,15.24,25,Debit Card,3.9,28,No
+716,57,Female,Home & Kitchen,30.47,10,Bank Transfer,3.8,0,Yes
+717,64,Female,Sports,108.46,5,PayPal,4.1,18,No
+718,46,Male,Sports,53.12,30,PayPal,3.0,5,No
+719,59,Female,Electronics,231.45,15,PayPal,3.6,7,Yes
+720,64,Male,Sports,20.11,30,Debit Card,4.8,20,No
+721,23,Female,Clothing,110.54,30,Credit Card,4.6,10,No
+722,26,Female,Beauty,49.71,10,Credit Card,3.9,20,Yes
+723,24,Female,Electronics,377.3,5,Debit Card,4.1,11,No
+724,61,Male,Books,96.03,0,Credit Card,4.8,11,Yes
+725,56,Male,Clothing,77.61,20,Credit Card,3.2,26,No
+726,49,Female,Home & Kitchen,43.69,25,PayPal,3.3,4,No
+727,64,Female,Electronics,105.11,30,PayPal,3.4,12,No
+728,48,Female,Beauty,47.24,15,Bank Transfer,3.8,17,No
+729,42,Male,Beauty,46.07,10,Credit Card,3.0,0,No
+730,53,Female,Clothing,30.33,10,Bank Transfer,2.9,14,No
+731,33,Male,Clothing,43.94,15,Credit Card,2.6,11,Yes
+732,48,Male,Electronics,119.75,30,Debit Card,3.7,5,No
+733,48,Female,Sports,267.32,0,Bank Transfer,4.4,19,No
+734,18,Female,Books,63.49,25,Debit Card,3.6,7,No
+735,23,Female,Clothing,89.67,20,PayPal,2.7,26,No
+736,38,Female,Books,22.02,20,Credit Card,4.6,24,No
+737,36,Male,Beauty,45.98,0,Bank Transfer,3.2,7,Yes
+738,54,Female,Electronics,87.83,20,PayPal,3.3,6,No
+739,26,Male,Home & Kitchen,57.27,15,Credit Card,4.0,15,No
+740,28,Male,Sports,185.29,25,Debit Card,4.4,4,No
+741,46,Male,Home & Kitchen,358.96,5,Bank Transfer,5.0,6,Yes
+742,27,Female,Electronics,578.93,0,Cash,2.7,15,No
+743,36,Male,Electronics,215.62,15,PayPal,4.4,8,No
+744,25,Female,Electronics,244.28,20,Cash,4.1,27,No
+745,23,Female,Beauty,123.39,30,Bank Transfer,4.2,7,Yes
+746,27,Male,Home & Kitchen,311.33,10,Bank Transfer,3.7,14,No
+747,24,Male,Clothing,207.91,10,PayPal,5.0,10,No
+748,62,Female,Electronics,252.59,0,Credit Card,4.4,19,No
+749,45,Female,Clothing,219.64,0,PayPal,2.7,4,Yes
+750,37,Female,Books,76.27,10,Debit Card,4.4,30,No
+751,40,Female,Books,61.8,15,Bank Transfer,2.5,26,No
+752,22,Male,Home & Kitchen,256.46,15,Cash,2.9,29,Yes
+753,61,Female,Home & Kitchen,157.37,20,Debit Card,2.6,3,No
+754,62,Male,Beauty,77.12,30,Cash,2.5,11,Yes
+755,62,Female,Sports,263.58,10,PayPal,4.8,3,No
+756,41,Male,Beauty,115.75,10,Credit Card,4.1,22,Yes
+757,24,Male,Sports,131.1,25,Credit Card,3.8,14,No
+758,44,Male,Clothing,102.81,30,PayPal,3.7,29,Yes
+759,41,Male,Beauty,138.89,5,PayPal,4.8,0,Yes
+760,18,Male,Clothing,170.7,20,PayPal,3.1,13,No
+761,57,Female,Electronics,519.14,10,Debit Card,2.9,16,Yes
+762,63,Male,Beauty,157.94,5,Credit Card,3.3,30,Yes
+763,19,Female,Electronics,399.43,15,Debit Card,4.4,0,No
+764,58,Female,Clothing,158.56,30,Credit Card,4.4,12,No
+765,23,Male,Sports,55.8,5,Debit Card,3.2,9,Yes
+766,22,Female,Home & Kitchen,50.44,25,PayPal,3.0,2,No
+767,38,Female,Clothing,20.1,10,Bank Transfer,3.7,11,Yes
+768,28,Female,Electronics,199.56,0,Cash,3.0,28,No
+769,32,Male,Sports,164.79,25,PayPal,3.7,9,No
+770,50,Female,Clothing,45.86,30,Debit Card,4.0,24,No
+771,64,Female,Books,70.92,15,Cash,3.9,6,Yes
+772,46,Male,Electronics,539.22,20,Credit Card,3.5,11,No
+773,38,Female,Clothing,33.04,10,Cash,2.5,22,No
+774,47,Female,Clothing,86.95,20,Credit Card,4.7,30,No
+775,61,Female,Home & Kitchen,48.37,0,Bank Transfer,3.6,3,No
+776,55,Female,Clothing,77.0,10,PayPal,4.6,4,Yes
+777,52,Male,Home & Kitchen,45.64,30,Bank Transfer,3.5,11,No
+778,49,Male,Books,54.16,20,Credit Card,2.6,3,Yes
+779,26,Male,Home & Kitchen,79.62,30,Credit Card,3.8,28,Yes
+780,34,Male,Electronics,82.32,25,Bank Transfer,4.8,5,No
+781,25,Male,Home & Kitchen,358.49,0,Bank Transfer,3.8,16,No
+782,60,Female,Home & Kitchen,90.85,20,Debit Card,4.7,26,Yes
+783,22,Female,Electronics,148.21,30,Bank Transfer,4.4,18,No
+784,37,Female,Sports,205.2,30,PayPal,3.8,19,No
+785,22,Female,Books,51.27,25,PayPal,3.1,3,No
+786,35,Male,Books,88.75,5,Bank Transfer,3.8,12,No
+787,21,Female,Home & Kitchen,162.96,5,Bank Transfer,3.2,19,No
+788,51,Female,Electronics,452.09,10,Credit Card,2.7,7,No
+789,32,Female,Books,68.64,5,Bank Transfer,4.1,11,No
+790,64,Male,Electronics,185.01,5,Debit Card,4.2,10,No
+791,39,Female,Clothing,164.53,5,Credit Card,4.4,21,No
+792,48,Male,Books,10.99,5,Debit Card,3.8,16,Yes
+793,24,Female,Sports,80.51,15,Cash,4.6,0,No
+794,51,Female,Electronics,234.99,5,Debit Card,3.7,11,No
+795,41,Male,Sports,157.92,20,Bank Transfer,4.8,28,No
+796,34,Female,Home & Kitchen,357.98,10,PayPal,4.0,26,No
+797,54,Female,Home & Kitchen,335.77,10,Debit Card,3.9,19,No
+798,49,Female,Electronics,518.28,10,Credit Card,3.6,0,Yes
+799,34,Male,Home & Kitchen,161.8,25,Debit Card,2.9,8,No
+800,55,Male,Home & Kitchen,161.21,0,Cash,3.2,28,No
+801,29,Female,Sports,132.51,5,Cash,3.3,9,No
+802,52,Male,Books,43.04,25,Cash,3.4,22,No
+803,47,Female,Books,71.11,10,Bank Transfer,3.1,25,No
+804,26,Female,Electronics,466.06,15,Credit Card,2.6,26,No
+805,59,Male,Home & Kitchen,191.37,20,Credit Card,3.8,21,No
+806,51,Male,Beauty,140.06,10,Credit Card,5.0,23,No
+807,57,Male,Electronics,121.63,0,PayPal,3.8,26,Yes
+808,25,Female,Books,73.35,15,Credit Card,4.1,27,No
+809,27,Male,Clothing,162.57,15,Credit Card,3.2,9,No
+810,41,Female,Books,83.21,0,Bank Transfer,3.5,18,No
+811,20,Female,Electronics,610.88,5,Bank Transfer,3.8,11,No
+812,40,Female,Beauty,49.69,30,Cash,3.2,4,No
+813,22,Female,Books,66.39,10,Bank Transfer,4.2,4,No
+814,55,Female,Electronics,91.68,15,Debit Card,4.4,10,Yes
+815,29,Female,Books,12.03,10,Credit Card,4.1,19,No
+816,38,Male,Sports,120.04,25,Debit Card,3.1,9,No
+817,51,Male,Electronics,396.82,10,Bank Transfer,3.5,24,Yes
+818,39,Male,Sports,154.57,15,Bank Transfer,3.4,16,No
+819,22,Female,Books,18.23,15,Bank Transfer,2.6,7,No
+820,19,Male,Home & Kitchen,290.21,0,Bank Transfer,3.9,17,No
+821,43,Male,Beauty,52.56,10,Cash,3.2,13,Yes
+822,26,Male,Beauty,17.7,30,Bank Transfer,3.9,30,Yes
+823,40,Male,Books,59.63,0,Bank Transfer,2.6,3,No
+824,59,Female,Books,21.35,30,Bank Transfer,3.0,25,No
+825,61,Male,Beauty,130.72,0,Bank Transfer,2.8,14,No
+826,40,Male,Home & Kitchen,81.1,30,Credit Card,3.8,25,Yes
+827,64,Male,Electronics,121.12,5,PayPal,2.8,9,No
+828,60,Male,Sports,86.21,30,Cash,3.6,7,No
+829,53,Female,Sports,102.28,15,PayPal,4.9,22,No
+830,23,Male,Clothing,97.88,30,Debit Card,2.6,4,No
+831,59,Female,Electronics,93.2,0,PayPal,4.6,8,No
+832,19,Female,Books,69.39,0,Credit Card,4.4,17,No
+833,34,Male,Electronics,291.39,0,PayPal,2.8,25,No
+834,52,Female,Books,23.4,5,Cash,4.8,4,No
+835,23,Male,Beauty,44.51,25,Credit Card,4.4,25,Yes
+836,37,Female,Home & Kitchen,27.29,25,PayPal,3.9,27,Yes
+837,55,Male,Home & Kitchen,344.45,10,Debit Card,3.7,27,No
+838,27,Male,Clothing,21.64,25,Cash,2.7,7,No
+839,19,Female,Beauty,83.82,5,Cash,3.3,6,No
+840,22,Female,Home & Kitchen,273.38,15,Bank Transfer,4.9,30,Yes
+841,28,Female,Electronics,195.26,25,Bank Transfer,4.4,24,No
+842,31,Female,Beauty,26.55,5,Bank Transfer,3.8,18,No
+843,52,Male,Beauty,53.84,20,Cash,4.8,9,No
+844,41,Male,Books,50.05,0,Credit Card,3.9,11,No
+845,59,Female,Beauty,168.92,5,Bank Transfer,4.8,24,No
+846,56,Female,Home & Kitchen,126.8,30,PayPal,4.7,6,Yes
+847,28,Male,Books,65.33,15,Credit Card,4.2,0,No
+848,50,Female,Books,66.67,10,Credit Card,4.0,18,Yes
+849,22,Female,Books,36.91,25,Bank Transfer,4.3,5,Yes
+850,27,Male,Beauty,39.74,10,Debit Card,4.4,30,No
+851,49,Female,Electronics,386.79,10,Debit Card,2.9,24,Yes
+852,65,Male,Books,17.06,10,Debit Card,3.6,15,No
+853,34,Male,Clothing,52.43,0,Bank Transfer,4.7,30,No
+854,18,Female,Electronics,262.75,15,Credit Card,4.8,9,No
+855,45,Female,Home & Kitchen,99.77,25,Credit Card,3.1,25,No
+856,28,Female,Home & Kitchen,278.67,0,Bank Transfer,2.8,13,No
+857,30,Male,Sports,66.99,15,Debit Card,3.7,4,No
+858,36,Male,Clothing,34.34,15,Debit Card,4.0,17,Yes
+859,44,Female,Beauty,111.06,10,Cash,3.1,26,No
+860,49,Female,Beauty,144.31,10,Cash,4.9,13,No
+861,60,Female,Electronics,160.85,15,PayPal,4.5,26,No
+862,61,Male,Electronics,234.34,10,PayPal,3.3,21,No
+863,45,Female,Home & Kitchen,254.51,15,Debit Card,3.9,7,No
+864,58,Male,Beauty,12.94,30,Cash,3.3,22,Yes
+865,59,Male,Beauty,72.24,10,Cash,2.9,25,No
+866,44,Male,Beauty,144.63,15,Debit Card,3.7,25,No
+867,37,Male,Clothing,151.52,15,Cash,4.5,4,Yes
+868,22,Male,Beauty,144.39,5,PayPal,4.3,3,No
+869,56,Female,Home & Kitchen,113.44,20,PayPal,3.4,15,Yes
+870,32,Female,Beauty,58.57,25,Bank Transfer,4.9,12,Yes
+871,46,Male,Beauty,97.13,10,Credit Card,4.5,4,Yes
+872,53,Male,Clothing,99.49,25,Debit Card,3.9,26,Yes
+873,49,Female,Books,38.93,0,Bank Transfer,4.2,8,No
+874,52,Female,Home & Kitchen,150.53,25,PayPal,4.8,2,Yes
+875,42,Male,Electronics,153.42,15,Bank Transfer,2.9,15,No
+876,26,Female,Books,67.32,10,Bank Transfer,4.7,19,No
+877,27,Female,Beauty,109.01,5,Debit Card,3.3,29,No
+878,51,Female,Electronics,263.12,5,PayPal,2.7,22,No
+879,24,Male,Beauty,49.68,5,PayPal,3.2,8,No
+880,41,Female,Home & Kitchen,99.71,5,Debit Card,3.9,8,No
+881,39,Female,Sports,297.0,0,Debit Card,4.5,29,No
+882,28,Female,Electronics,252.42,10,Credit Card,3.8,9,No
+883,53,Female,Books,68.38,20,Debit Card,3.0,26,No
+884,63,Male,Books,64.51,10,Cash,2.6,5,No
+885,60,Female,Sports,95.93,25,Cash,3.0,0,No
+886,18,Female,Home & Kitchen,111.5,10,Credit Card,3.7,20,No
+887,35,Male,Beauty,101.42,15,Bank Transfer,4.7,23,Yes
+888,20,Female,Electronics,322.01,30,PayPal,2.8,27,Yes
+889,38,Male,Beauty,62.9,10,Bank Transfer,4.3,28,No
+890,51,Male,Sports,122.19,25,PayPal,2.7,8,Yes
+891,35,Male,Sports,90.26,10,Bank Transfer,3.4,3,Yes
+892,54,Female,Electronics,106.46,30,Debit Card,4.5,5,No
+893,47,Male,Sports,172.9,25,PayPal,3.3,4,No
+894,29,Female,Clothing,103.69,10,Credit Card,3.6,22,No
+895,40,Female,Home & Kitchen,269.53,20,Bank Transfer,2.9,12,No
+896,62,Female,Home & Kitchen,102.61,25,Bank Transfer,3.2,25,No
+897,34,Male,Books,60.12,10,Bank Transfer,3.9,11,Yes
+898,38,Male,Sports,259.65,5,Debit Card,3.4,29,No
+899,52,Male,Electronics,334.58,5,Bank Transfer,4.3,8,No
+900,48,Female,Home & Kitchen,99.19,15,Bank Transfer,3.2,24,No
+901,55,Male,Clothing,185.71,20,Cash,2.8,24,Yes
+902,23,Female,Clothing,112.95,10,Debit Card,2.7,9,No
+903,45,Male,Sports,101.83,15,Debit Card,4.2,17,No
+904,60,Female,Books,15.1,30,PayPal,4.7,10,No
+905,52,Male,Home & Kitchen,222.28,10,Credit Card,3.3,11,No
+906,22,Male,Clothing,28.67,5,PayPal,3.3,9,Yes
+907,34,Female,Clothing,176.94,0,Credit Card,4.7,20,No
+908,38,Male,Beauty,125.58,0,Credit Card,3.6,9,No
+909,50,Female,Books,14.04,30,Credit Card,4.7,12,No
+910,18,Female,Sports,34.51,10,PayPal,2.8,1,No
+911,41,Male,Beauty,142.65,5,Credit Card,3.4,9,No
+912,38,Female,Sports,58.55,20,Debit Card,2.8,3,No
+913,45,Female,Home & Kitchen,96.25,20,Credit Card,3.6,18,No
+914,41,Male,Clothing,167.83,10,Cash,4.1,29,No
+915,43,Male,Clothing,79.08,0,Cash,3.0,25,No
+916,57,Male,Sports,161.27,30,Credit Card,3.2,5,No
+917,29,Female,Home & Kitchen,223.55,30,Debit Card,3.3,20,No
+918,19,Female,Clothing,77.58,10,Bank Transfer,3.5,17,Yes
+919,39,Female,Home & Kitchen,150.69,25,Credit Card,3.1,12,Yes
+920,58,Female,Beauty,55.39,15,Debit Card,3.7,21,No
+921,57,Female,Beauty,101.47,5,Debit Card,4.8,12,No
+922,56,Male,Electronics,244.02,25,Cash,3.9,12,No
+923,44,Female,Home & Kitchen,220.61,20,Debit Card,3.8,17,No
+924,49,Female,Home & Kitchen,334.66,10,Debit Card,3.7,24,Yes
+925,42,Female,Books,17.98,20,Credit Card,4.3,18,No
+926,57,Male,Clothing,96.41,25,Debit Card,3.9,12,No
+927,47,Female,Sports,105.57,0,PayPal,3.9,6,No
+928,61,Female,Clothing,231.56,5,Credit Card,3.7,7,Yes
+929,65,Male,Sports,125.73,10,Credit Card,4.3,28,Yes
+930,46,Female,Sports,107.87,20,PayPal,4.1,20,Yes
+931,24,Male,Home & Kitchen,306.75,5,PayPal,3.1,29,No
+932,34,Male,Home & Kitchen,326.43,10,PayPal,3.6,22,No
+933,54,Female,Beauty,120.17,25,Debit Card,3.3,9,No
+934,48,Female,Sports,98.0,25,Debit Card,2.6,7,No
+935,27,Male,Home & Kitchen,316.79,10,Bank Transfer,2.9,20,No
+936,51,Female,Books,57.27,0,Cash,4.9,21,No
+937,37,Male,Clothing,127.99,20,Credit Card,4.1,29,No
+938,65,Male,Home & Kitchen,53.26,20,Credit Card,4.4,27,Yes
+939,46,Male,Clothing,161.56,15,Bank Transfer,2.6,5,No
+940,53,Female,Electronics,513.69,5,Bank Transfer,3.1,7,No
+941,47,Male,Beauty,79.83,15,Bank Transfer,2.7,6,No
+942,56,Female,Home & Kitchen,331.19,5,Bank Transfer,4.5,18,No
+943,18,Female,Books,50.09,10,Debit Card,4.7,8,No
+944,35,Female,Sports,249.01,15,Credit Card,2.9,15,No
+945,61,Female,Electronics,457.58,30,Bank Transfer,3.0,7,No
+946,38,Female,Electronics,428.86,15,Debit Card,2.9,25,No
+947,38,Female,Sports,197.36,30,Cash,3.4,9,No
+948,64,Female,Sports,283.5,0,Debit Card,3.5,30,No
+949,35,Male,Sports,121.18,15,Debit Card,3.9,10,No
+950,57,Female,Home & Kitchen,150.43,0,PayPal,4.1,24,No
+951,35,Female,Electronics,135.75,5,Cash,4.4,28,No
+952,27,Male,Beauty,98.55,10,Cash,3.8,17,Yes
+953,26,Male,Sports,254.85,5,PayPal,3.7,10,No
+954,39,Male,Sports,171.37,15,Credit Card,4.5,12,Yes
+955,50,Female,Electronics,387.67,10,Credit Card,3.3,18,Yes
+956,54,Male,Beauty,23.58,20,Credit Card,5.0,20,No
+957,35,Female,Books,33.78,15,PayPal,4.5,16,Yes
+958,43,Female,Electronics,373.35,20,Bank Transfer,4.4,21,No
+959,59,Male,Beauty,41.54,10,Bank Transfer,2.8,5,Yes
+960,26,Female,Electronics,254.72,10,Debit Card,4.8,7,No
+961,19,Male,Books,88.08,0,Debit Card,3.6,14,No
+962,42,Male,Electronics,578.79,15,Cash,4.0,23,No
+963,30,Male,Electronics,403.11,30,Credit Card,3.5,13,No
+964,41,Female,Electronics,296.8,15,Cash,3.7,28,No
+965,20,Male,Clothing,17.71,20,Cash,3.0,25,No
+966,57,Female,Clothing,54.15,10,Debit Card,4.8,28,Yes
+967,49,Male,Home & Kitchen,341.33,0,Debit Card,3.7,28,No
+968,20,Female,Beauty,51.75,0,PayPal,4.9,3,No
+969,52,Female,Clothing,185.55,10,Bank Transfer,3.8,21,Yes
+970,48,Female,Sports,48.16,25,PayPal,4.4,2,No
+971,57,Male,Clothing,49.97,20,Cash,3.9,16,No
+972,38,Female,Home & Kitchen,375.81,0,Debit Card,3.0,25,Yes
+973,27,Male,Clothing,65.93,30,Debit Card,3.5,18,No
+974,57,Female,Beauty,67.13,5,PayPal,3.4,8,No
+975,60,Male,Sports,25.59,20,PayPal,2.7,4,Yes
+976,25,Female,Clothing,72.49,20,Bank Transfer,3.5,5,No
+977,27,Male,Electronics,203.18,0,Bank Transfer,3.8,25,No
+978,62,Male,Home & Kitchen,198.69,25,Bank Transfer,3.9,4,No
+979,30,Female,Electronics,573.42,15,Cash,2.8,10,Yes
+980,22,Female,Sports,35.09,15,Debit Card,2.9,4,No
+981,43,Male,Sports,271.69,5,Bank Transfer,3.5,28,No
+982,31,Female,Clothing,146.2,25,PayPal,3.7,19,No
+983,25,Female,Clothing,208.39,15,Credit Card,4.7,26,No
+984,45,Male,Sports,239.47,20,Cash,4.0,30,No
+985,60,Female,Sports,201.7,10,Bank Transfer,3.1,28,No
+986,44,Female,Home & Kitchen,246.16,25,PayPal,2.8,8,No
+987,56,Female,Electronics,317.12,30,Bank Transfer,3.4,7,No
+988,43,Male,Home & Kitchen,140.33,30,PayPal,4.4,20,Yes
+989,31,Male,Electronics,423.83,10,Cash,4.5,11,No
+990,33,Female,Books,53.71,20,Cash,4.7,24,No
+991,40,Male,Books,53.61,30,Credit Card,2.8,9,No
+992,38,Female,Sports,221.96,10,Debit Card,2.9,24,No
+993,19,Male,Clothing,194.68,15,Debit Card,4.2,19,Yes
+994,23,Female,Home & Kitchen,120.68,25,Cash,4.7,26,Yes
+995,38,Male,Books,74.51,25,Debit Card,3.1,7,No
+996,59,Male,Clothing,60.84,20,Debit Card,3.0,18,No
+997,58,Female,Sports,118.98,5,Credit Card,3.9,10,No
+998,38,Male,Beauty,131.88,0,Debit Card,4.6,25,No
+999,63,Male,Books,46.94,5,Bank Transfer,3.9,0,Yes
+1000,40,Female,Sports,214.14,25,PayPal,4.3,0,No

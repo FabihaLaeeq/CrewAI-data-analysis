@@ -1,0 +1,26 @@
+Customer Purchase Behavior Dataset
+
+This dataset contains information about customers and their purchasing behavior.
+
+Important features include:
+
+- Customer Age: Age of the customer.
+- Gender: Gender category of the customer.
+- Product Category: Category of the purchased product.
+- Purchase Amount: Amount spent by the customer.
+- Discount Applied: Whether a discount was applied.
+- Payment Method: Method used for payment.
+- Customer Rating: Rating given by the customer.
+- Previous Purchases: Number of previous purchases made by the customer.
+
+Potential analysis questions:
+
+1. Which product categories generate the highest purchase amounts?
+2. Does customer age affect purchasing behavior?
+3. Do discounts influence purchase amounts?
+4. Which payment methods are most commonly used?
+5. Is there a relationship between customer ratings and purchase behavior?
+6. Which customer groups appear to be the most valuable?
+
+The purpose of the analysis is to identify customer purchasing patterns,
+important factors affecting purchases, and useful business recommendations.

@@ -1,0 +1,47 @@
+research_task:
+  description: >
+    Research customer purchasing behavior using the provided RAG tool.
+    Retrieve relevant information from the customer behavior knowledge base
+    and identify important factors, patterns, and relationships related to
+    customer purchases.
+
+    Focus on information available in the knowledge base. Do not invent
+    facts that are not supported by the retrieved information.
+
+  expected_output: >
+    A structured research summary containing the most relevant retrieved
+    information about customer purchasing behavior, including important
+    factors, patterns, and relationships that can be used by the reporting
+    analyst.
+
+  agent: researcher
+
+
+reporting_task:
+  description: >
+    Review the research findings produced by the Customer Behavior Data
+    Researcher. Analyze the retrieved information and turn it into a clear
+    customer purchasing behavior report.
+
+    Include:
+    - Key findings
+    - Important purchasing patterns
+    - Factors that may influence purchases
+    - Potential relationships between customer characteristics and behavior
+    - Business insights
+    - Practical recommendations
+
+    Only make conclusions that are supported by the research findings.
+    Clearly distinguish between observed information and recommendations.
+
+  expected_output: >
+    A detailed Markdown report containing:
+    1. Executive Summary
+    2. Key Findings
+    3. Customer Purchasing Patterns
+    4. Important Factors
+    5. Business Insights
+    6. Recommendations
+    7. Conclusion
+
+  agent: reporting_analyst
